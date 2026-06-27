@@ -1,5 +1,4 @@
 #![allow(unused)]
-use std::thread::current;
 
 use raylib::{ffi::CSSPalette, prelude::*};
 use rand::{RngExt, rng};
